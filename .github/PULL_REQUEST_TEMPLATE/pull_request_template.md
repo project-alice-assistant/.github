@@ -1,44 +1,26 @@
-<!-- Please don't delete this template!! -->
+<!-- 
+Thanks for creating this pull request 🤗
 
-<!-- (Change "[ ]" to "[x]" to check a box) -->
+Please make sure that the pull request is limited to one type (docs, feature, etc.) and keep it as small as possible. You can open multiple prs instead of opening a huge one.
+-->
 
-##### Summary
+<!-- If this pull request closes an issue, please mention the issue number below -->
+Closes # <!-- Issue # here -->
 
-<!-- Please summarize your Pull Request -->
+## 📑 Description
+<!-- Add a brief description of the pr -->
 
-##### What kind of change does this PR introduce?
+<!-- You can also choose to add a list of changes and if they have been completed or not by using the markdown to-do list syntax
+- [ ] Not Completed
+- [x] Completed
+-->
 
-<!-- Check at least one -->
+## ✅ Checks
+<!-- Make sure your pr passes the CI checks and do check the following fields as needed - -->
+- [ ] My pull request adheres to the code style of this project
+- [ ] My code requires changes to the documentation
+- [ ] I have updated the documentation as required
+- [ ] All the tests have passed
 
-- [ ] Bugfix
-- [ ] New feature
-- [ ] Refactoring
-- [ ] Other, please describe:
-
-##### Does this PR introduce a breaking change?
-
-<!-- Check one -->
-
-- [ ] Yes
-- [ ] No
-
-<!-- If yes, please describe the path to migrate existing installs to this: -->
-###### Migration guide:
-
-<!-- How to migrate from existing Alice's installs -->
-
-##### The PR fulfills these requirements:
-
-- [ ] When resolving/implementing a specific issue, it's referenced in the PR's title (e.g. `fix #xxx` or `implement #xxx`, where "xxx" is the issue number)
-- [ ] You have tested your changes on the branch you wish to merge
-- [ ] The changes are working
-
-
-If adding a **new feature**, the PR's description includes:
-
-- [ ] The reason for this new feature to be added
-- [ ] The use of this new feature
-- [ ] If available, a link to an existing feature request ticket
-
-
-###### Other information:
+## ℹ Additional Information
+<!-- Any additional information like breaking changes, dependencies added, screenshots, comparisons between new and old behavior, etc. -->

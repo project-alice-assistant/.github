@@ -6,7 +6,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        **Skill issues, feature requests and bugs don't belong belong in their own repositories, so the author is emailed with your request. Please submit your ticket in the adequate repository!**
+        **Skill issues, feature requests and bugs don belong in their own repositories, so the author is emailed with your request. Please submit your ticket in the adequate repository!**
+        
         Thanks for taking the time to fill out this bug report 🤗
         Make sure there aren't any open/closed issues for this topic 😃
   - type: dropdown
